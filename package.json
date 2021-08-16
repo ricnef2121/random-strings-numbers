@@ -1,0 +1,24 @@
+{
+  "name": "random-strings-numbers",
+  "version": "0.10.0",
+  "description": "This module return a mix beetwen strings and numbers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricnef2121/random-strings-numbers.git"
+  },
+  "keywords": [
+    "strings",
+    "random",
+    "numbers"
+  ],
+  "author": "Ricardo Neftali Lazcano Calixto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricnef2121/random-strings-numbers/issues"
+  },
+  "homepage": "https://github.com/ricnef2121/random-strings-numbers#readme"
+}
