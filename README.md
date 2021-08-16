@@ -8,6 +8,9 @@ npm install random-strings-numbers
 
 ## How to use
 ```
-let random = require('random-strings-nu,bers')
+let random = require('random-strings-numbers');
+
+let getCharacters = random.RandomChar(5);
+//
 ```
 
