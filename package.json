@@ -1,6 +1,6 @@
 {
   "name": "random-strings-numbers",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "This module return a mix beetwen strings and numbers",
   "main": "main.js",
   "scripts": {
